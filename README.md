@@ -7,4 +7,4 @@ Brainhack-school 2024 repository of Romain DUCHADEAU
    <br /><sub><b>Romain DUCHADEAU</b></sub>
 </a>
 
-I am a microelectronics engineering student who wishes to specialize in biomedical
+I am a microelectronics engineering student at Polytechnique Montréal who wishes to specialize in biomedical
