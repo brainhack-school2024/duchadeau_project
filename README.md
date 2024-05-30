@@ -55,6 +55,12 @@ Pour plus d'informations ou des questions sur ce dataset, veuillez consulter les
 1. Sous quelle forme (image, info) mettre les datas pour le donner au ML
 2. Comment traiter les datas (epoch?, mask?, altas?, utilisation de T1?)
 3. Comment ils s'y sont pris pour savoir si c'est éveillé ou pas???
+4. Quelle différence entre la feature extraction `fmri_data = fmri_img.get_fdata` et avec les masker comme celui ci :
+```
+masker = NiftiLabelsMasker(labels_img=atlas_filename, 
+                           standardize=True, 
+                           memory='nilearn_cache', 
+                           verbose=1)
+```
 
-## Lien d'un orojet similaire
-https://school-brainhack.github.io/project/fmri-sleep-deprivation/ 
+[Lien d'un projet similaire de la brainhack-school](https://school-brainhack.github.io/project/fmri-sleep-deprivation/)
