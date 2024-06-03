@@ -63,4 +63,10 @@ masker = NiftiLabelsMasker(labels_img=atlas_filename,
                            verbose=1)
 ```
 
-[Lien d'un projet similaire de la brainhack-school](https://school-brainhack.github.io/project/fmri-sleep-deprivation/)
+
+# Autre ressources :
+- [Preprocessing workflow](https://peerherholz.github.io/workshop_weizmann/nipype/notebooks/handson_preprocessing.html)
+- [Lien d'un projet similaire de la brainhack-school](https://school-brainhack.github.io/project/fmri-sleep-deprivation/)
+- [Data preprocessing git cool avec docker](https://fmriprep.org/en/stable/) 
+- [Etapes preprocessing](https://carpentries-incubator.github.io/SDC-BIDS-fMRI/instructor/aio.html)
+- [nipype](https://nipype.readthedocs.io/en/latest/)
