@@ -1,0 +1,17 @@
+[
+    [
+        "in_file",
+        [
+            "/home/rduchadeau/Desktop/Brainhack_school/duchadeau_project/working_directory/work_preproc/gunzip_func/sub-01_task-rest_run-1_bold_redresse.nii",
+            "e9026074b075c40a690204925d8d1be1"
+        ]
+    ],
+    [
+        "out_file",
+        "output_brain.nii.gz"
+    ],
+    [
+        "output_type",
+        "NIFTI_GZ"
+    ]
+]

@@ -1,0 +1,34 @@
+{
+    "groups": [
+        {
+            "name": "Group_00001",
+            "procs": [
+                0,
+                1
+            ],
+            "total": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1
+        }
+    ],
+    "maxN": 2,
+    "nodes": [
+        {
+            "group": 1,
+            "name": "0_gunzip_func",
+            "report": "/gunzip_func/_report/report.rst",
+            "result": "/gunzip_func/result_gunzip_func.pklz"
+        },
+        {
+            "group": 1,
+            "name": "1_extract",
+            "report": "/extract/_report/report.rst",
+            "result": "/extract/result_extract.pklz"
+        }
+    ]
+}

@@ -70,3 +70,5 @@ masker = NiftiLabelsMasker(labels_img=atlas_filename,
 - [Data preprocessing git cool avec docker](https://fmriprep.org/en/stable/) 
 - [Etapes preprocessing](https://carpentries-incubator.github.io/SDC-BIDS-fMRI/instructor/aio.html)
 - [nipype](https://nipype.readthedocs.io/en/latest/)
+
+Globalement le workflow marche mieux mais à condition de savoir l'utiliser correctement. Autrement on peut passer à quelque chose de plus simple en faisant les étapes "à la main"

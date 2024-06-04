@@ -1,0 +1,1 @@
+bet sub-01_task-rest_run-1_bold_redresse.nii output_brain.nii.gz
