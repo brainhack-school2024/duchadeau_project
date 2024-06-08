@@ -52,16 +52,10 @@ Pour plus d'informations ou des questions sur ce dataset, veuillez consulter les
 
 # TODO
 
-1. Sous quelle forme (image, info) mettre les datas pour le donner au ML
-2. Comment traiter les datas (epoch?, mask?, altas?, utilisation de T1?)
-3. Comment ils s'y sont pris pour savoir si c'est éveillé ou pas???
-4. Quelle différence entre la feature extraction `fmri_data = fmri_img.get_fdata` et avec les masker comme celui ci :
-```
-masker = NiftiLabelsMasker(labels_img=atlas_filename, 
-                           standardize=True, 
-                           memory='nilearn_cache', 
-                           verbose=1)
-```
+1. atlas --> T1 
+2. prétraitement de toutes les données
+3. Extraction de toute les features
+4. ML algo
 
 
 # Autre ressources :
