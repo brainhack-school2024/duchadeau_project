@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+nibabel
+nilearn
+matplotlib
+nipype
+sklearn
+os
