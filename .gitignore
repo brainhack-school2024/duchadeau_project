@@ -4,3 +4,4 @@ fMRI_labeled_data/
 fmri_preprocessed_data/
 aligned_atlas/
 ROI_of_fmri/
+working_directory/
