@@ -1,4 +1,30 @@
-![Alt text](images_for_README/Image_objective.png)
+---
+type: "project" # DON'T TOUCH THIS ! :)
+date: "2024-06-19" # Date you first upload your project.
+# Title of your project (we like creative title)
+title: "Sleep detection using fMRI data"
+
+# List the names of the collaborators within the [ ]. If alone, simple put your name within []
+names: [Romain DUCHADEAU]
+
+# Your project GitHub repository URL
+github_repo: https://github.com/brainhack-school2024/duchadeau_project
+
+# If you are working on a project that has website, indicate the full url including "https://" below or leave it empty.
+website:
+
+# List +- 4 keywords that best describe your project within []. Note that the project summary also involves a number of key words. Those are listed on top of the [github repository](https://github.com/brainhack-school2020/project_template), click `manage topics`.
+# Please only lowercase letters
+tags: [fMRI, sleep, Machine_learning, health]
+
+# Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
+
+summary: "This project utilizes fMRI data and machine learning to predict sleep states, aiming to enhance understanding of sleep patterns and disorders. By analyzing brain activity during different sleep stages, it seeks to improve diagnostics and develop personalized treatments for sleep disorders. The primary goal is to determine whether a participant is asleep or awake using resting-state fMRI data."
+
+# If you want to add a cover image (listpage and image in the right), add it to your directory and indicate the name
+# below with the extension.
+image: "images_for_README/Image_objective.png"
+---
 
 ## Project Summary
 
@@ -34,7 +60,6 @@ This project explores the use of fMRI data to predict sleep states via machine l
 - **Draft_Exploration_datase.ipynb** and **Draft_preprocessinf.ipynb** :  Two draft used to test ideas. Not supposed to be explored but can be helpfull.
 - **requirement.txt** : See the installation module 
 - **Brainhack-school_final_presentation** : My final presentation of the project
-- **index.md** : The README page to add to the website
 
 ### Dataset Description
 
